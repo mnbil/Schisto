@@ -1,0 +1,151 @@
+﻿Title,Topic,Lesson title,Date,Status,Priority
+A. Schistosomiasis Biology for Epidemiologists,"S. mansoni, S. haematobium",,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Age-intensity profiles,,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Life cycle,,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Transmission pathways,,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Snail hosts,,,Proposed,Moderate
+A. Schistosomiasis Biology for Epidemiologists,Morbidity spectrum,,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Female genital schistosomiasis (FGS),,,Proposed,Moderate
+A. Schistosomiasis Biology for Epidemiologists,Exposure and risk factors,,,Proposed,High
+A. Schistosomiasis Biology for Epidemiologists,Geographic distribution,,,Proposed,High
+B. Schistosomiasis Control and Elimination,WHO roadmap,,,Proposed,High
+B. Schistosomiasis Control and Elimination,"Preventive chemotherapy
+",,,Proposed,Moderate
+B. Schistosomiasis Control and Elimination,Mass drug administration (MDA),,,Proposed,High
+B. Schistosomiasis Control and Elimination,Coverage and compliance,,,Proposed,Moderate
+B. Schistosomiasis Control and Elimination,"Elimination as a public health problem
+",,,Proposed,High
+B. Schistosomiasis Control and Elimination,Interruption of transmission,,,Proposed,Moderate
+B. Schistosomiasis Control and Elimination,Monitoring and evaluation,,,Proposed,High
+B. Schistosomiasis Control and Elimination,National control programmes,,,Proposed,Moderate
+B. Schistosomiasis Control and Elimination,"Surveillance strategies
+",,,Proposed,Moderate
+C. Treatment Failure,Treatment response,,,Proposed,High
+C. Treatment Failure,Worm clearance,,,Proposed,High
+C. Treatment Failure,Cure rate,,,Proposed,High
+C. Treatment Failure,Egg reduction rate,,,Proposed,High
+C. Treatment Failure,"Apparent vs true treatment failure
+",,,Proposed,High
+C. Treatment Failure,Reinfection,,,Proposed,High
+C. Treatment Failure,Persistent transmission,,,Proposed,High
+C. Treatment Failure,Host factors,,,Proposed,Moderate
+C. Treatment Failure,Parasite factors,,,Proposed,Moderate
+C. Treatment Failure,Environmental factors,,,Proposed,Moderate
+C. Treatment Failure,Causal frameworks,,,Proposed,Moderate
+C. Treatment Failure,Sources of bias in treatment outcome assessment,,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,Mechanism of action,,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,Drug metabolism,,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,Enantiomers,,,Proposed,Moderate
+D. Praziquantel and Clinical Pharmacology,"Food effects
+",,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,"Dosing strategies
+",,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,"Paediatric formulation
+",,,Proposed,Low
+D. Praziquantel and Clinical Pharmacology,Pregnancy,,,Proposed,Low
+D. Praziquantel and Clinical Pharmacology,Co-infections,,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,Drug interactions,,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,"Resistance debate
+",,,Proposed,High
+D. Praziquantel and Clinical Pharmacology,Alternative drugs,,,Proposed,Moderate
+D. Praziquantel and Clinical Pharmacology,Combination therapies,,,Proposed,Moderate
+E. PK/PD Foundations,Pharmacokinetic principles,,,Proposed,High
+E. PK/PD Foundations,"ADME (absorption, distribution, metabolism, elimination)",,,Proposed,High
+E. PK/PD Foundations,"Exposure metrics (AUC, Cmax, Tmax)",,,Proposed,High
+E. PK/PD Foundations,"Pharmacodynamic principles
+",,,Proposed,High
+E. PK/PD Foundations,"Exposure-response relationships
+",,,Proposed,High
+E. PK/PD Foundations,Variability and random effects,,,Proposed,High
+E. PK/PD Foundations,Covariates,,,Proposed,High
+E. PK/PD Foundations,Population PK,,,Proposed,High
+E. PK/PD Foundations,Population PK/PD,,,Proposed,High
+E. PK/PD Foundations,Longitudinal data,,,Proposed,High
+E. PK/PD Foundations,Model evaluation,,,Proposed,High
+E. PK/PD Foundations,Model qualification,,,Proposed,High
+E. PK/PD Foundations,Clinical trial PK/PD endpoints,,,Proposed,High
+F. PK/PD Modelling for Schistosomiasis,Praziquantel PK models,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Exposure-efficacy relationships,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Egg reduction modelling,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Cure probability modelling,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Worm burden reduction models,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Mixed-effects models,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Bayesian approaches,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Simulation studies,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Dose optimisation,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Special populations,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Linking PK to reinfection studies,,,Proposed,Moderate
+F. PK/PD Modelling for Schistosomiasis,Translational modelling,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Kato-Katz,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,"Urine filtration
+",,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,POC-CCA,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,UCP-LF CAA,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,PCR/qPCR,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Serology,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Sensitivity and specificity,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Imperfect reference standards,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Composite reference standards,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Latent class methods,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Diagnostic performance in low-endemic settings,,,Proposed,Moderate
+G. Diagnostics and the Gold Standard Problem,Programmatic interpretation,,,Proposed,Moderate
+H. Estimating True Infection and Worm Burden,Latent infection states,,,Proposed,High
+H. Estimating True Infection and Worm Burden,True worm burden,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Egg shedding dynamics,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Day-to-day variability,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Sampling variability,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Worm burden versus egg counts,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Worm burden versus antigen levels,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Density dependence,,,Proposed,High
+H. Estimating True Infection and Worm Burden,"Mating probability
+",,,Proposed,High
+H. Estimating True Infection and Worm Burden,Biological heterogeneity,,,Proposed,High
+H. Estimating True Infection and Worm Burden,Uncertainty quantification,,,Proposed,High
+I. Transmission Modelling,Anderson-May models,,,Proposed,Moderate
+I. Transmission Modelling,"Deterministic models
+",,,Proposed,Moderate
+I. Transmission Modelling,Stochastic models,,,Proposed,Moderate
+I. Transmission Modelling,Force of infection,,,Proposed,Moderate
+I. Transmission Modelling,Aggregation,,,Proposed,Moderate
+I. Transmission Modelling,Snail-human transmission,,,Proposed,Moderate
+I. Transmission Modelling,Reinfection dynamics,,,Proposed,Moderate
+I. Transmission Modelling,MDA impact models,,,Proposed,Moderate
+I. Transmission Modelling,Elimination thresholds,,,Proposed,Moderate
+I. Transmission Modelling,Model calibration,,,Proposed,Moderate
+I. Transmission Modelling,Model validation,,,Proposed,Moderate
+I. Transmission Modelling,Scenario analysis,,,Proposed,Moderate
+J. Linking PK/PD and Transmission Models,Multiscale modelling,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Within-host versus population models,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Worm reduction assumptions,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Heterogeneous treatment response,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,"Reinfection processes
+",,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Treatment strategy evaluation,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Dynamic intervention modelling,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Elimination forecasting,,,Proposed,Low
+J. Linking PK/PD and Transmission Models,Decision-support modelling,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Human behaviour,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,"Water contact patterns
+",,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,WASH,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Snail ecology,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Climate and environment,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,"Parasite genetics
+",,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Population genomics,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Drug susceptibility,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Health systems,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Systematic non-adherence,,,Proposed,Low
+K. Other Drivers of Persistent Schistosomiasis,Spatial heterogeneity,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,"Major cohorts and datasets
+",,,Proposed,Low
+L. The Schistosomiasis Research Landscape,WHO and policy groups,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,Unlimit Health,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,SCORE legacy studies,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,Diagnostics groups,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,PK/PD groups,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,Transmission modelling groups,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,Parasite genomics groups,,,Proposed,Low
+L. The Schistosomiasis Research Landscape,Current controversies,,,Proposed,High
+L. The Schistosomiasis Research Landscape,Major unanswered questions,,,Proposed,High
+L. The Schistosomiasis Research Landscape,Key papers and review articles,,,Proposed,Low
